@@ -1,0 +1,11 @@
+train: C:\Users<DATASET-URL-LOCAL>\train\images
+
+val: C:\Users<DATASET-URL-LOCAL>\valid\images
+
+test: C:\Users<DATASET-URL-LOCAL>\test\images
+
+nc: 3 
+names:
+  person
+  weapon
+  umbrella
